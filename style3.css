@@ -1,0 +1,47 @@
+.container{
+	color:green;
+}
+.navbar-collapse{
+	 
+	font-family: Comic Sans MS;
+}
+.navbar-nav{
+	font-color:green;
+}
+.title{
+	
+	color: black; 
+	text-align: center;
+	border:2px solid green;
+	border-radius: 10px;
+	background-color: rgb(93,254,141);
+
+}
+.Objectives{
+	font-size: 18px;
+	color:rgb(15,67,107);
+	border:2px dotted green;
+	border-radius: 10px;
+	background-color: rgb(93,254,141);
+
+}
+
+.Requirements{
+	font-size: 18px;
+	color:rgb(15,67,107);
+	border:2px dashed green;
+	border-radius: 10px;
+	background-color: rgb(93,254,141);
+
+}
+.Submission{
+	font-size: 18px;
+	color:rgb(15,67,107);
+	border:1 solid green;
+	border-radius: 10px;
+	background-color: rgb(93,254,141);
+}
+.body{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
